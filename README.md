@@ -6,9 +6,7 @@ Página web que muestra logros y descubrimientos científicos argentinos, alimen
 
 ## Cómo se actualizan los datos
 
-Los datos se cargan desde esta planilla de Google Sheets:
-
-📊 [Abrir Google Sheet](https://docs.google.com/spreadsheets/d/1vOqUm2ODciRkacamfSoJ-bqXkrJtE-JTXphKWxkSrFI/edit?gid=1877176342#gid=1877176342)
+Los datos se cargan desde esta planilla de Google Sheets: [Documento de Google Sheet](https://docs.google.com/spreadsheets/d/1vOqUm2ODciRkacamfSoJ-bqXkrJtE-JTXphKWxkSrFI/edit?gid=1877176342#gid=1877176342)
 
 ### Agregar una nueva entrada
 
