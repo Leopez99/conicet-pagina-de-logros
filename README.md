@@ -2,11 +2,9 @@
 
 Página web que muestra logros y descubrimientos científicos argentinos, alimentada directamente desde Google Sheets.
 
-🔗 **Ver página:** [leopez99.github.io/conicet-pagina-de-logros](https://leopez99.github.io/conicet-pagina-de-logros/)
+[leopez99.github.io/conicet-pagina-de-logros](https://leopez99.github.io/conicet-pagina-de-logros/)
 
----
-
-## Cómo actualizar los datos
+## Cómo se actualizan los datos
 
 Los datos se cargan desde esta planilla de Google Sheets:
 
@@ -14,16 +12,16 @@ Los datos se cargan desde esta planilla de Google Sheets:
 
 ### Agregar una nueva entrada
 
-1. Abrí la hoja **`datos`** dentro del sheet
+1. Abrí la hoja datos dentro del sheet
 2. En la primera fila vacía, completá las dos columnas:
    - **Año** → el año del logro (ej: `2025`)
    - **Link** → la URL completa de la noticia (ej: `https://www.conicet.gov.ar/...`)
 3. Guardá el sheet (se guarda automáticamente)
-4. Entrá a la página y presioná el botón **Actualizar** — los nuevos datos aparecen al instante
+4. Entrá a la página y presioná el botón Actualizar los nuevos datos aparecen al instante
 
 ### Editar o eliminar una entrada
 
-- Para **editar**, simplemente modificá la celda correspondiente en el sheet
-- Para **eliminar**, borrá la fila completa
+- Para editar, simplemente modificá la celda correspondiente en el sheet
+- Para eliminar, borrá la fila completa
 - En ambos casos, presioná **Actualizar** en la página para ver los cambios
 
