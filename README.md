@@ -23,5 +23,3 @@ Los datos se cargan desde esta planilla de Google Sheets:
 
 - Para editar, simplemente modificá la celda correspondiente en el sheet
 - Para eliminar, borrá la fila completa
-- En ambos casos, presioná **Actualizar** en la página para ver los cambios
-
